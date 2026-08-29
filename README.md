@@ -3,7 +3,7 @@
 Tap **GM** on **Base Mainnet** — each GM earns **10 points** onchain.
 
 - **3 free GMs per day** (UTC day)
-- **4th GM and later:** **0.0001 ETH** per tap → **20 points**
+- **4th GM and later:** **0.0001 ETH** per 
 - Free GM: **10 points** · anti-spam **10 sec** between taps
 - Points → future **airdrop** snapshot
 
